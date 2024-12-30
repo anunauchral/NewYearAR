@@ -9,11 +9,11 @@ Content-Encoding: br
 Cache-Control: public, max-age=315360000
 
 # Set correct MIME type for WebAssembly file
- /Build/MobiNY.wasm.gz
+ /Build/NewYearAR.wasm.gz
 Content-Type: application/wasm
 Content-Encoding: gzip
 
 # Set correct MIME type for WebAssembly file
- /Build/MobiNY.wasm.br
+ /Build/NewYearAR.wasm.br
 Content-Type: application/wasm
 Content-Encoding: br
